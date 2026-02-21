@@ -73,8 +73,8 @@ Bot Discord **đa năng** tích hợp **phát nhạc YouTube**, **hệ thống l
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/dkhoasobad/discordbot.git
-cd discordbot
+git clone https://github.com/dkhoasobad/Discord-Bot-Basic
+cd Discord-Bot-Basic
 ```
 
 ### 2. Cài dependencies
